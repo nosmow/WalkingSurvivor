@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: Table1
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: bf61466200838eb4096544cf3104e3c7, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 37ee266dbe6c65f4481a91d838c48aab, type: 2}
+  - {fileID: 11400000, guid: 7e004fc1991e26c4b90c53ea4a57c350, type: 2}
+  - {fileID: 11400000, guid: 682154a36f24e20498142dfd66f533b0, type: 2}
+  m_Extensions:
+  - rid: 1359230970331136025
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds:
+    - rid: 1359230970331136025
+      type: {class: CsvExtension, ns: UnityEditor.Localization.Plugins.CSV, asm: Unity.Localization.Editor}
+      data:
+        m_Collection: {fileID: 11400000}
+        m_ColumnsList:
+        - rid: 1359230970331136026
+        - rid: 1359230970331136027
+        - rid: 1359230970331136028
+        - rid: 1359230970331136029
+        m_ConnectedFile: C:/Users/daine/Documents/Translations/WalkingSurvivor.csv
+    - rid: 1359230970331136026
+      type: {class: KeyIdColumns, ns: UnityEditor.Localization.Plugins.CSV.Columns, asm: Unity.Localization.Editor}
+      data:
+        m_IncludeId: 1
+        m_IncludeSharedComments: 1
+        m_KeyFieldName: Key
+        m_IdFieldName: Id
+        m_CommentFieldName: Shared Comments
+    - rid: 1359230970331136027
+      type: {class: LocaleColumns, ns: UnityEditor.Localization.Plugins.CSV.Columns, asm: Unity.Localization.Editor}
+      data:
+        m_LocaleIdentifier:
+          m_Code: en
+        m_FieldName: English(en)
+        m_CommentFieldName: English(en) Comments
+        m_IncludeComments: 0
+    - rid: 1359230970331136028
+      type: {class: LocaleColumns, ns: UnityEditor.Localization.Plugins.CSV.Columns, asm: Unity.Localization.Editor}
+      data:
+        m_LocaleIdentifier:
+          m_Code: es
+        m_FieldName: Spanish(es)
+        m_CommentFieldName: Spanish(es) Comments
+        m_IncludeComments: 0
+    - rid: 1359230970331136029
+      type: {class: LocaleColumns, ns: UnityEditor.Localization.Plugins.CSV.Columns, asm: Unity.Localization.Editor}
+      data:
+        m_LocaleIdentifier:
+          m_Code: pt
+        m_FieldName: Portuguese(pt)
+        m_CommentFieldName: Portuguese(pt) Comments
+        m_IncludeComments: 0
