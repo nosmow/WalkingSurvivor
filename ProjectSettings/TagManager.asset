@@ -7,6 +7,8 @@ TagManager:
   - Weapon
   - Box
   - Enemy
+  - SpawnPoint
+  - Rooms
   layers:
   - Default
   - TransparentFX

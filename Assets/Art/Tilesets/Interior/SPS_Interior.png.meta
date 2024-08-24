@@ -3,7 +3,7 @@ guid: de4145849b6e44342a77c8ca791c8c83
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
-  serializedVersion: 12
+  serializedVersion: 13
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -20,11 +20,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
-  ignoreMasterTextureLimit: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -63,6 +64,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
   cookieLightType: 0
   platformSettings:
   - serializedVersion: 3
@@ -75,6 +77,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -87,6 +90,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -99,6 +103,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -2397,8 +2402,8 @@ TextureImporter:
       name: SPS_Interior_109
       rect:
         serializedVersion: 2
-        x: 0
-        y: 140
+        x: 96
+        y: 156
         width: 16
         height: 16
       alignment: 0
@@ -2418,8 +2423,8 @@ TextureImporter:
       name: SPS_Interior_110
       rect:
         serializedVersion: 2
-        x: 16
-        y: 140
+        x: 112
+        y: 156
         width: 16
         height: 16
       alignment: 0
@@ -2439,7 +2444,7 @@ TextureImporter:
       name: SPS_Interior_111
       rect:
         serializedVersion: 2
-        x: 32
+        x: 0
         y: 140
         width: 16
         height: 16
@@ -2460,7 +2465,7 @@ TextureImporter:
       name: SPS_Interior_112
       rect:
         serializedVersion: 2
-        x: 48
+        x: 16
         y: 140
         width: 16
         height: 16
@@ -2481,7 +2486,7 @@ TextureImporter:
       name: SPS_Interior_113
       rect:
         serializedVersion: 2
-        x: 80
+        x: 32
         y: 140
         width: 16
         height: 16
@@ -2502,8 +2507,8 @@ TextureImporter:
       name: SPS_Interior_114
       rect:
         serializedVersion: 2
-        x: 0
-        y: 124
+        x: 48
+        y: 140
         width: 16
         height: 16
       alignment: 0
@@ -2523,8 +2528,8 @@ TextureImporter:
       name: SPS_Interior_115
       rect:
         serializedVersion: 2
-        x: 16
-        y: 124
+        x: 64
+        y: 140
         width: 16
         height: 16
       alignment: 0
@@ -2544,8 +2549,8 @@ TextureImporter:
       name: SPS_Interior_116
       rect:
         serializedVersion: 2
-        x: 32
-        y: 124
+        x: 80
+        y: 140
         width: 16
         height: 16
       alignment: 0
@@ -2565,7 +2570,7 @@ TextureImporter:
       name: SPS_Interior_117
       rect:
         serializedVersion: 2
-        x: 48
+        x: 0
         y: 124
         width: 16
         height: 16
@@ -2586,7 +2591,7 @@ TextureImporter:
       name: SPS_Interior_118
       rect:
         serializedVersion: 2
-        x: 64
+        x: 16
         y: 124
         width: 16
         height: 16
@@ -2607,7 +2612,7 @@ TextureImporter:
       name: SPS_Interior_119
       rect:
         serializedVersion: 2
-        x: 80
+        x: 32
         y: 124
         width: 16
         height: 16
@@ -2628,8 +2633,8 @@ TextureImporter:
       name: SPS_Interior_120
       rect:
         serializedVersion: 2
-        x: 0
-        y: 108
+        x: 48
+        y: 124
         width: 16
         height: 16
       alignment: 0
@@ -2649,8 +2654,8 @@ TextureImporter:
       name: SPS_Interior_121
       rect:
         serializedVersion: 2
-        x: 16
-        y: 108
+        x: 64
+        y: 124
         width: 16
         height: 16
       alignment: 0
@@ -2662,6 +2667,27 @@ TextureImporter:
       bones: []
       spriteID: e869bdf35f4efce48b736646f95204c4
       internalID: 886121804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPS_Interior_122
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90d79b471b05684e822252f5b4157a6
+      internalID: -950933560
       vertices: []
       indices: 
       edges: []
@@ -2704,6 +2730,7 @@ TextureImporter:
       SPS_Interior_12: 1434066620
       SPS_Interior_120: 1070095736
       SPS_Interior_121: 886121804
+      SPS_Interior_122: -950933560
       SPS_Interior_13: -1846250584
       SPS_Interior_14: 1004140485
       SPS_Interior_15: 1756647271
@@ -2799,9 +2826,8 @@ TextureImporter:
       SPS_Interior_97: 624173050
       SPS_Interior_98: 1610474880
       SPS_Interior_99: -855064183
-  spritePackingTag: 
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
