@@ -6,6 +6,7 @@ public class PlayerMovement : MonoBehaviour
 {
     private Controls controls;
 
+    [SerializeField] private FieldOfView fieldOfView;
     [SerializeField] private float speed = 5f;
 
     private Rigidbody2D playerRb;
@@ -37,8 +38,10 @@ public class PlayerMovement : MonoBehaviour
     void Update()
     {
         movInput = controls.Base.Move.ReadValue<Vector2>().normalized;
-        
+      
         playerAnimator.SetFloat("speed", movInput.sqrMagnitude);
+
+        fieldOfView.SetOrigin(transform.position);
     }
 
     private void FixedUpdate()

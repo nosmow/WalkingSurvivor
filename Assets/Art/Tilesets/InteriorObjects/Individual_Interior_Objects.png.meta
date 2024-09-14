@@ -1,0 +1,2375 @@
+fileFormatVersion: 2
+guid: 0a12b994b353d374bb562869837aee13
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 176
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118584b9808b63a49801dade1dfea9bd
+      internalID: -347482455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 229
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff436af9e26619443b699ab079d36e87
+      internalID: -1130712939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 224
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a3892334e3f0741ae30a957a62b78f
+      internalID: 937026743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_3
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 224
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49133052a29116046ab8dedd1a69591f
+      internalID: -2101617135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_4
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 229
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8e5d3ecdc4ea446a248c7de42dbc23
+      internalID: 273518307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 229
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94d218875241b141ba3ad52eb1c6ed7
+      internalID: 53675455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_6
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 229
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c799f4e85db3f40be965ff45eb89af
+      internalID: 1986173631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_7
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 196
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb996ef1f801084fbb8fa04c3419640
+      internalID: 1087768968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_8
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 195
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9563ee440d778f946b28db76157977cc
+      internalID: 427085418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_9
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 213
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0d33e8e657fe7498c67dd4ca02e684
+      internalID: -2117648462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_10
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 208
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94217982dc8393a49b5dfa080d884760
+      internalID: -43035139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 208
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9aacb5b89649a4f9ac0eecb3f8dc57
+      internalID: 398189750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_12
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 213
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6de634cb3c33e749b3added9193a52b
+      internalID: -924143979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_13
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 213
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90be900eeac0604aa95e2c06fb58394
+      internalID: 1535708573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_14
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 213
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99be207e4f63ce49a41f8c2e5ff72d9
+      internalID: 646249764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_15
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 197
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc585cdf0dd109a49b7070bf0b3b018a
+      internalID: 876680785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_16
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 183
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87bb810fbfd86d4c938c61bfcdf96db
+      internalID: -126183585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_17
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 183
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90dbd58abfb16041821d5456c5e9978
+      internalID: 2091637525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_18
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 197
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec7364ad2f527346bd246253d552341
+      internalID: -633107972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_19
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 197
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45a56c2376f14843aa7493ca66a4d33
+      internalID: 668797712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_20
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 197
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55036b9c4590ed045bc8aa309e7a5576
+      internalID: 1458155917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_21
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 183
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec99e0842d6950b4aa60e4f8f51b3846
+      internalID: 390999737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_22
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 183
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a33d903d0016e4aa4781a3ca049c82
+      internalID: 314467694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_23
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 163
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a1009dd55ae0447b6c6a154aeca9e5
+      internalID: -1519550094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_24
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 163
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1b6109ad010404f8a7f92d4b00b30b
+      internalID: 15390027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_25
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 153
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f829d5a8a850648944bcd02d0028bb
+      internalID: 1493141775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_26
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 151
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337b3483eb2f4f145a6e8fb8ba0887b2
+      internalID: -843671461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_27
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 151
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f529050c1b256c84a8edee6c9281b51f
+      internalID: -1818714343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_28
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 163
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b64d65bb4f81a948a387fdac7733e75
+      internalID: 896825331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_29
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 151
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76acdff94dda854c8ec3670f85e6525
+      internalID: 943675241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_30
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 163
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe86643fde02934a9c9ae03d49c6add
+      internalID: 633553507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_31
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 160
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f884b52288466de4396cebb6bbd42ad5
+      internalID: -1735254633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_32
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 151
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ff8b86bca9d0448a6db00620b8bd45
+      internalID: -643888987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_33
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 115
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538dbeb24c686ab4f81fa02768b28d89
+      internalID: -722036000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_34
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 115
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5cb0cda4a2fc24e934a4e6098bb35f
+      internalID: 1031728456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_35
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 131
+        width: 42
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95759675f3b8ce449b83ac6b2ae3bc5
+      internalID: -1395675243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_36
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 119
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c339f728af43f3a408d48973341de3b6
+      internalID: -1038710619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_37
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 119
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38f0f39f0a8e5142b336d9e38b1af1f
+      internalID: -967881748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_38
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 131
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8a479b51a16fa4798ac0e8194c0f1a
+      internalID: 341709806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_39
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 119
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f94632a2837f8840980d635d9aa0fed
+      internalID: -1137801423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_40
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 131
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493fa5303aa97bb408f5b33582e2a75c
+      internalID: 1308153879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_41
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 128
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f4f7629244b9f43be09a49f540dad2
+      internalID: -1825535349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_42
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 119
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260ea2eac86bd744d984369f1c7f2b3e
+      internalID: 943431494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_43
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 98
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b26a41cff0a6c4e9601f4ce8abc16d
+      internalID: 247916008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_44
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 98
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346287859f8694e459edc20ad87f7581
+      internalID: -1371204102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_45
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 87
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383adfbe1fcc7304c86f2ba1da22f8fb
+      internalID: -1174431609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_46
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 87
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f18201f01b77404b9235c3361ed4a1d
+      internalID: -735397917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_47
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 99
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ae11da061c2c748b0091a831247294
+      internalID: -134581806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_48
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 87
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8691338b518dce345bccd09517600ecb
+      internalID: -1051685523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_49
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 99
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d73ad397f8c39d4da840148556dd6e2
+      internalID: -1066052004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_50
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 96
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e254535faddecba48b63a90309c24c0c
+      internalID: -989317436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_51
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 96
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd477c986842232469d368a04529d226
+      internalID: 319150389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179c388cc887a2b4dbd0d29513de6891
+      internalID: -1759154703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_53
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 96
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c9730bd0020694bb259af095824f39
+      internalID: 559758019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_54
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 96
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1696e0df70ac80647979f2f03d3ace05
+      internalID: -631231966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_55
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62660b1c3ab68e344b059fcfa5fcafd4
+      internalID: 1699120099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_56
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 96
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88a00b20ddf84946922f72887c500a6
+      internalID: 1026505621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_57
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 87
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7281c25969cf146815b0914f8af661
+      internalID: 1060379495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_58
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 83
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8728c42eb46fcd14b8987a2cddf4dec9
+      internalID: 1740389329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_59
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 83
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45cacb5b85b5f174c930a496808c5f4e
+      internalID: 1615707960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_60
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 83
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79932fc6e63b4674ea3fe6faf3a5d32f
+      internalID: -1708107428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_61
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 83
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8206f7a0b153fb148936d26535c7215f
+      internalID: 522365424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_62
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 83
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29465ba6a1543d645a3aabca27bb5c07
+      internalID: 1511579875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_63
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 83
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d002c63981e25ca4f882e47baec9115d
+      internalID: 233209120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_64
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 66
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ae7f67c5226724ab0fe4b218e75b7b
+      internalID: 184846544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_65
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 66
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caed87b209f8b7c44b11828e03b41108
+      internalID: 411003864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_66
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 64
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437dc6e6cb7fd354686c22968a62914a
+      internalID: 903145230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_67
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 64
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddc5b28ec8b4294d8b50663ea71c81c
+      internalID: -1282825065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_68
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 67
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa568ab42f8ceb4ca3f94254a52c21c
+      internalID: -324154026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_69
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 64
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a521e0830c249c49ad4f8ec5b33af75
+      internalID: 909959554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_70
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 67
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ba4dc2b86d79446b922b1a529f2700
+      internalID: -352904535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_71
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 64
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647d51b2f25bc0c46881ade930328418
+      internalID: 678204076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_72
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 64
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c53818488c68a449cf3d6944ada375
+      internalID: -1520583782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_73
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92436ff9c12bf7a40a9956bdb2846f1a
+      internalID: 1218009722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_74
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 64
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8173888da912d8c4297620fc75058045
+      internalID: 603989983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_75
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 64
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb066c583848564494218be14b3e2c1
+      internalID: 2016721368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_76
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1406d6ac7b7a0864691a94a54f672926
+      internalID: -1466766944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_77
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 64
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212a79820bc3f3a44a6149c05b702f4d
+      internalID: 1399936523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_78
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 34
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec1530b5562f4e4b875f0a0d140e38c
+      internalID: -620377251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_79
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 34
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20b01f686d68904394bd1ef56bbb0ab
+      internalID: 1959013385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_80
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 51
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f5a4e2d5182c1419ed3d1ef1cbf4ed
+      internalID: -1008174005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_81
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 51
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d778f94c8ee790e4db0caad8be70d09e
+      internalID: -1300651093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_82
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 51
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be75d082efd7054183629aa34a18460
+      internalID: 1361890419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_83
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 51
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c35f75ed68fa514a94fe4239d399535
+      internalID: -1468958933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_84
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 51
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3ce1ddfb114f9438dfe0e7155d9672
+      internalID: 1101818852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_85
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 51
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f95c67d0f9ede418094c11645546a8
+      internalID: -1148007306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_86
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 34
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60f52845dee4c54982604d860937528
+      internalID: -1336680217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_87
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 35
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3926b406954e74497f19a17fdf864c
+      internalID: 961180739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_88
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 34
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112930a43556c6b44a4c5b89b9ce23e9
+      internalID: -365902479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_89
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 35
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ee8ecf3239a9d44932a69dcd6ae557
+      internalID: 2077313645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_90
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 19
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e9c12163c41d44ebb4ab2710170032
+      internalID: -453771295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_91
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 19
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a68edbbfed6f04398e7323ea4ba5ff
+      internalID: -743647348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_92
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 19
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe4e0aabde466f46bde73f9703de790
+      internalID: 527530371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_93
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 19
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ed3291e0145eb48bc733c7c7fb2802
+      internalID: 640573742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_94
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22adde0f0ccf6604bb4e99f3a1656e48
+      internalID: 1743058287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_95
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbcfcf247e849b41996a2a98fe0bce1
+      internalID: -54891959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_96
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2596ba818aeae69478070599245f2bb4
+      internalID: 753127099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_97
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71bbbbb34e002845b7cb704d8cb50a9
+      internalID: 734418998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_98
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1b1a2cf7a51ec419e4c1507dea3d38
+      internalID: -516890257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_99
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b7e55ab8ede724287724024a7218f5
+      internalID: 610314409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Individual_Interior_Objects_100
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 2
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6db6af9629dbf24b8e25b4cf92b8053
+      internalID: 1855330653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Individual_Interior_Objects_0: -347482455
+      Individual_Interior_Objects_1: -1130712939
+      Individual_Interior_Objects_10: -43035139
+      Individual_Interior_Objects_100: 1855330653
+      Individual_Interior_Objects_11: 398189750
+      Individual_Interior_Objects_12: -924143979
+      Individual_Interior_Objects_13: 1535708573
+      Individual_Interior_Objects_14: 646249764
+      Individual_Interior_Objects_15: 876680785
+      Individual_Interior_Objects_16: -126183585
+      Individual_Interior_Objects_17: 2091637525
+      Individual_Interior_Objects_18: -633107972
+      Individual_Interior_Objects_19: 668797712
+      Individual_Interior_Objects_2: 937026743
+      Individual_Interior_Objects_20: 1458155917
+      Individual_Interior_Objects_21: 390999737
+      Individual_Interior_Objects_22: 314467694
+      Individual_Interior_Objects_23: -1519550094
+      Individual_Interior_Objects_24: 15390027
+      Individual_Interior_Objects_25: 1493141775
+      Individual_Interior_Objects_26: -843671461
+      Individual_Interior_Objects_27: -1818714343
+      Individual_Interior_Objects_28: 896825331
+      Individual_Interior_Objects_29: 943675241
+      Individual_Interior_Objects_3: -2101617135
+      Individual_Interior_Objects_30: 633553507
+      Individual_Interior_Objects_31: -1735254633
+      Individual_Interior_Objects_32: -643888987
+      Individual_Interior_Objects_33: -722036000
+      Individual_Interior_Objects_34: 1031728456
+      Individual_Interior_Objects_35: -1395675243
+      Individual_Interior_Objects_36: -1038710619
+      Individual_Interior_Objects_37: -967881748
+      Individual_Interior_Objects_38: 341709806
+      Individual_Interior_Objects_39: -1137801423
+      Individual_Interior_Objects_4: 273518307
+      Individual_Interior_Objects_40: 1308153879
+      Individual_Interior_Objects_41: -1825535349
+      Individual_Interior_Objects_42: 943431494
+      Individual_Interior_Objects_43: 247916008
+      Individual_Interior_Objects_44: -1371204102
+      Individual_Interior_Objects_45: -1174431609
+      Individual_Interior_Objects_46: -735397917
+      Individual_Interior_Objects_47: -134581806
+      Individual_Interior_Objects_48: -1051685523
+      Individual_Interior_Objects_49: -1066052004
+      Individual_Interior_Objects_5: 53675455
+      Individual_Interior_Objects_50: -989317436
+      Individual_Interior_Objects_51: 319150389
+      Individual_Interior_Objects_52: -1759154703
+      Individual_Interior_Objects_53: 559758019
+      Individual_Interior_Objects_54: -631231966
+      Individual_Interior_Objects_55: 1699120099
+      Individual_Interior_Objects_56: 1026505621
+      Individual_Interior_Objects_57: 1060379495
+      Individual_Interior_Objects_58: 1740389329
+      Individual_Interior_Objects_59: 1615707960
+      Individual_Interior_Objects_6: 1986173631
+      Individual_Interior_Objects_60: -1708107428
+      Individual_Interior_Objects_61: 522365424
+      Individual_Interior_Objects_62: 1511579875
+      Individual_Interior_Objects_63: 233209120
+      Individual_Interior_Objects_64: 184846544
+      Individual_Interior_Objects_65: 411003864
+      Individual_Interior_Objects_66: 903145230
+      Individual_Interior_Objects_67: -1282825065
+      Individual_Interior_Objects_68: -324154026
+      Individual_Interior_Objects_69: 909959554
+      Individual_Interior_Objects_7: 1087768968
+      Individual_Interior_Objects_70: -352904535
+      Individual_Interior_Objects_71: 678204076
+      Individual_Interior_Objects_72: -1520583782
+      Individual_Interior_Objects_73: 1218009722
+      Individual_Interior_Objects_74: 603989983
+      Individual_Interior_Objects_75: 2016721368
+      Individual_Interior_Objects_76: -1466766944
+      Individual_Interior_Objects_77: 1399936523
+      Individual_Interior_Objects_78: -620377251
+      Individual_Interior_Objects_79: 1959013385
+      Individual_Interior_Objects_8: 427085418
+      Individual_Interior_Objects_80: -1008174005
+      Individual_Interior_Objects_81: -1300651093
+      Individual_Interior_Objects_82: 1361890419
+      Individual_Interior_Objects_83: -1468958933
+      Individual_Interior_Objects_84: 1101818852
+      Individual_Interior_Objects_85: -1148007306
+      Individual_Interior_Objects_86: -1336680217
+      Individual_Interior_Objects_87: 961180739
+      Individual_Interior_Objects_88: -365902479
+      Individual_Interior_Objects_89: 2077313645
+      Individual_Interior_Objects_9: -2117648462
+      Individual_Interior_Objects_90: -453771295
+      Individual_Interior_Objects_91: -743647348
+      Individual_Interior_Objects_92: 527530371
+      Individual_Interior_Objects_93: 640573742
+      Individual_Interior_Objects_94: 1743058287
+      Individual_Interior_Objects_95: -54891959
+      Individual_Interior_Objects_96: 753127099
+      Individual_Interior_Objects_97: 734418998
+      Individual_Interior_Objects_98: -516890257
+      Individual_Interior_Objects_99: 610314409
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

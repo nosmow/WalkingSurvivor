@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 2611222320711941302}
   - component: {fileID: 8237951975751859421}
   - component: {fileID: 8671968691307728650}
-  m_Layer: 6
+  m_Layer: 3
   m_Name: box1
   m_TagString: Box
   m_Icon: {fileID: 0}
@@ -75,9 +75,9 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -1384636599
-  m_SortingLayer: 4
+  m_SortingLayer: 6
   m_SortingOrder: 0
-  m_Sprite: {fileID: 105007098, guid: 595b985f3a03fe348b67b0c0355768dd, type: 3}
+  m_Sprite: {fileID: 411003864, guid: 0a12b994b353d374bb562869837aee13, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -154,7 +154,7 @@ Animator:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2611222320711941306}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 9100000, guid: 43ea7045a9666484db6dacae9735df04, type: 2}
   m_CullingMode: 0

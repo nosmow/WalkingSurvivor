@@ -1,6 +1,5 @@
 using System.Collections;
 using System.Collections.Generic;
-using UnityEditor.Localization.Plugins.XLIFF.V12;
 using UnityEngine;
 
 public class RoomManager : MonoBehaviour
@@ -56,6 +55,7 @@ public class RoomManager : MonoBehaviour
         {
             Debug.Log($"Generation complete, {roomCount} rooms created");
             generationComplete = true;
+            FindObjectOfType<RoomTemplates>().rooms = roomObjects;
         }
     }
 
@@ -70,6 +70,8 @@ public class RoomManager : MonoBehaviour
         initialRoom.name = $"Room-{roomCount}";
         initialRoom.GetComponent<Room>().RoomIndex = roomIndex;
         roomObjects.Add(initialRoom);
+        
+        initialRoom.GetComponent<Room>().ChangeGround(initialRoom);
     }
 
     private bool TryGenerateRoom(Vector2Int roomIndex)
@@ -100,6 +102,8 @@ public class RoomManager : MonoBehaviour
         newRoom.GetComponent<Room>().RoomIndex = roomIndex;
         newRoom.name = $"Room-{roomCount}";
         roomObjects.Add(newRoom);
+
+        newRoom.GetComponent<Room>().ChangeGround(newRoom);
 
         OpenDoors(newRoom, x, y);
 

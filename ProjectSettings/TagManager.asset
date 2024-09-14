@@ -13,13 +13,13 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - NotVisible
   - Water
   - UI
   - Postprocess
-  - 
-  - 
-  - 
+  - FOV
+  - BehindFOV
+  - Black
   - 
   - 
   - 
@@ -49,6 +49,12 @@ TagManager:
   - name: Ground
     uniqueID: 4274449833
     locked: 0
+  - name: Wall
+    uniqueID: 1668734437
+    locked: 0
+  - name: Door
+    uniqueID: 1369209385
+    locked: 0
   - name: Enviroment
     uniqueID: 3978049435
     locked: 0
@@ -60,6 +66,9 @@ TagManager:
     locked: 0
   - name: Weapon
     uniqueID: 447657137
+    locked: 0
+  - name: Lights
+    uniqueID: 3936669281
     locked: 0
   - name: UI
     uniqueID: 1450486607

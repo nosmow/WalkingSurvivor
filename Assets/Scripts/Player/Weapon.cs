@@ -63,7 +63,7 @@ public class Weapon : MonoBehaviour
     {
         if (obj.CompareTag("Enemy"))
         {
-            FindAnyObjectByType<EnemyController>().ReceiveDamage(10);
+           // FindAnyObjectByType<EnemyController>().ReceiveDamage(10);
         }
     }
 
